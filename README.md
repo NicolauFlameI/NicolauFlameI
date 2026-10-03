@@ -14,7 +14,7 @@ com foco em suporte de software e infraestrutura de sistemas.
 
 
 ### 🤖 Linguagens e Tecnologias
-
+<br/>
 <img 
     align="left" 
     alt="Java"
